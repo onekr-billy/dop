@@ -1,0 +1,10 @@
+*.scssc
+*.xml
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.pyc
+debug_settings.py
+node_modules
+static
+.idea
