@@ -1,4 +1,4 @@
-Django==1.11.19
+Django
 uwsgi
 redis
 djangorestframework
